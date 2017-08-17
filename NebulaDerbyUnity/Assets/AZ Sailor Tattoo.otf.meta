@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7f700f7a713b0f14fbdd725593f44947
+timeCreated: 1502996488
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AZ Sailor Tattoo
+  fontNames:
+  - AZ Sailor Tattoo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
